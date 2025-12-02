@@ -1,7 +1,6 @@
 ## Hi there 👋
 
 
-👋 Hi! I’m a real human (not a GitHub bot) who enjoys building things and learning along the way. 💡
 
 💻 Lately, I’ve been working on a personal project that’s slowly coming together, which has been really fun!
 
